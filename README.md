@@ -3,12 +3,12 @@
 📂 Este repositório foi criado para compartilhar os meus  projetos desenvolvidos durante o bootcamp do Santander Code Girls em parceria com a DIO. 
 A linqguagem que será utilizada aqui é o **JAVA**.
 
-<img src="/assets-intro/code-girls.png" alt="Logo do Programa Santander Code Girls"/>
+<img src="/assets-intro/code-girls.png" height='300' alt="Logo do Programa Santander Code Girls"/>
 
 
 ### Programa do Curso (62 hrs)
 - Módulo I - Princípios de Desenvolvimento de Software
-   * Introdução à Prpogramação e Pensamento Computacional 
+   * Introdução à Programação e Pensamento Computacional 
    * Introdução ao Git e GitHub
 - Módulo II - Começando a Programar em Java
    * IDES Java 
